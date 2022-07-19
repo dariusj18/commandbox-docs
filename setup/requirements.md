@@ -17,3 +17,5 @@ Here are the requirements for installing and using CommandBox on your system. No
 ## Software
 
 A Java JRE is listed as a software requirement, but if you have a brand new PC with no JRE we have a download option that contains the Java Runtime bundled with it.
+
+Maximum JRE Version Supported: Java/OpenJDK 11
